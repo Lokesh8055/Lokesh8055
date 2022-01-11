@@ -1,5 +1,5 @@
 
-<h1 align="center">👩🏻‍💻 Hi, I’m Lokesh</h1>
+<h1 align="center">Hi, I’m Lokesh</h1>
 <h2 align="center">Passionate Frontend developer</h2>
 
 
