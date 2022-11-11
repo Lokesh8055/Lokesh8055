@@ -26,5 +26,5 @@
   
 
 <h3>Let's Connect:</h3>
-<p><a href="https://www.linkedin.com/in/lokesh-p-7b4276129/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+<p><a href="https://www.linkedin.com/in/lokesh-padmanabhan/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
 
