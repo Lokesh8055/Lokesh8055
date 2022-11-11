@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/bootstrap/bootstrap-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" alt="javascript" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/VUE/VUE-original.svg" alt="javascript" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vue/vue.svg" alt="javascript" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redux/redux-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/webpack/webpack-original.svg" alt="javascript" width="35" height="35"/>
 <section>
