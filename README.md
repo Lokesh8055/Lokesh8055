@@ -3,7 +3,7 @@
 <h2 align="center">Passionate Frontend developer</h2>
 
 
-- Have over 2 years of experience Working as a React developer 
+- Have over 4 years of experience Working as a React developer 
 - I love exploring new technologies. 
 
 <h3>Languages:</h3>
