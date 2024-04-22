@@ -16,6 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/redux/redux-original.svg" alt="javascript" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/webpack/webpack-original.svg" alt="javascript" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="javascript" width="35" height="35"/>
 <section>
   
 <h3>Tools:</h3>
