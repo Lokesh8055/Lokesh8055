@@ -39,16 +39,16 @@ I'm a passionate Frontend Developer with over 5 years of experience, currently w
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:lokeshpadmanabhan98@gmail.com">
+  <a href="mailto:lokeshpadmanabhan98@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/lokesh-padmanabhan/">
+  <a href="https://www.linkedin.com/in/lokesh-padmanabhan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/your-leetcode">
+  <a href="https://leetcode.com/u/Lokesh8055/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://leetcode.com/u/Lokesh8055/">
+  <a href="https://www.codewars.com/users/Lokesh2498" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
 </p>
