@@ -20,6 +20,8 @@ I'm a passionate Frontend Developer with over 5 years of experience, currently w
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/webpack/webpack-original.svg" alt="Webpack" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="35" height="35"/>
 </div>
 
 ### Development Tools  
